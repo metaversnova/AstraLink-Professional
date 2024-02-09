@@ -75,7 +75,7 @@
 
 - Then run `builder.bat`
 
-<div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="></img></div>
+
 
                                               ⬇ Manual Setup ⬇
  
