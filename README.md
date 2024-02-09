@@ -16,7 +16,7 @@
 
 
 
-                                                  ⬇ Logging Features ⬇
+                                                ⬇ Logging Features ⬇
 
 
 -   Discord Information 
@@ -69,7 +69,7 @@
 
     
 
-                                                    ⬇ Instructions ⬇
+                                                ⬇ Instructions ⬇
 
 - Open `install.bat` and follow the instructions
 
@@ -77,14 +77,14 @@
 
 <div align="center"><img style="display: block; margin-left: auto; margin-right: auto; width: 65%;" src="></img></div>
 
-                                                ⬇ Images (No image yet) ⬇
+                                             ⬇ Images (No image yet) ⬇
  
 - For any doubt or issues contact me on Discord
     
 </div>
  
  
-                                                    ⬇ Manual Setup ⬇
+                                                 ⬇ Manual Setup ⬇
  
 - Paste and save your webhook address instead of `"WEBHOOK HERE"` in AstraLink.py
 
@@ -108,7 +108,7 @@
 
 
 
-                                             ⬇ Educational Purposes Disclosure ⬇
+                                       ⬇ Educational Purposes Disclosure ⬇
 
 - <bold> This tool is a tool that should be used only for educational purposes. I do not hold any responsibility for any misuse! </bold>
 
