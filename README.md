@@ -97,6 +97,29 @@
 
  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
+ 
+                                                 ⬇ Dependencies ⬇
+     
+-   [Python](https://www.python.org/downloads/release/python-3109/)
+-   [Git](https://git-scm.com/download/win)
+
+
+
+
+
+    
+ <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+ 
+ 
+                                              ⬇ Issues? Contributor? ⬇
+
+
+* View the [contributing guidelines](CONTRIBUTING.md) for more information on how you can help out.
+* Make an [issue](https://github.com/metaversenova/AstraLink/issues)
+* Reach out to me at any linked platform on https://about.me/metaversenova
+
+ <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
+
                                                    ⬇ WIP ⬇
 - Use and edit if you know what you're doing!
 - You need to put your own injection url and it should work
