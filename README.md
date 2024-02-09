@@ -93,8 +93,6 @@
 
 - FIle Selection `One file with hidden CMD`
 
-<img style="border-radius: 15px; display: block; margin-left: auto; margin-right: auto; margin-bottom:20px;" width="40%" src="></img>
-
 - And press covert .py .exe
 
  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
