@@ -1,5 +1,5 @@
 # Guide and Info's about AstraLink Professional!
-<h1 align="center"> Astra Link Professionaò  </h1> 
+<h1 align="center"> Astra Link Professional  </h1> 
 <p align= "center"> <kbd> <img  src="https://imgur.com/Evnlzt1.png"width="1000"> </kbd><br><br>
 
 
@@ -98,9 +98,10 @@
  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
                                                    ⬇ WIP ⬇
-
+- Use and edit if you know what you're doing!
 - You need to put your own injection url and it should work
-- This is the best concisest of this software and more features are coming
+- New clients and browsers coming soon (if this software stays active)
+- This is the concisest version of this software and more features are coming
 
  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
