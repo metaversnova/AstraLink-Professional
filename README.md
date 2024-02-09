@@ -97,7 +97,12 @@
 
  <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
+                                                   ⬇ WIP ⬇
 
+- You need to put your own injection url and it should work
+- This is the best concisest of this software and more features are coming
+
+ <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
 
                                        ⬇ Educational Purposes Disclosure ⬇
 
