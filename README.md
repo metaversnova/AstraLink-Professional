@@ -16,7 +16,7 @@
 
 
 
-                                                      ⬇ Logging Features ⬇
+                                                  ⬇ Logging Features ⬇
 
 
 -   Discord Information 
