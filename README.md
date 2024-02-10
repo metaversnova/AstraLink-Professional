@@ -66,8 +66,9 @@
 - Grabs Local Crypto wallets such as Metamask, Atomic, Exodus, Binance, Coinbase, Trust and Phantom 
 
 
-
-    
+                                             ⬇ Note Carefully ⬇
+  
+- This is the best and most concise version of this software. It's meant for those who have experience and want to take things further, thus use this only if you know what you're doing as it might not turn out as expected. Contact a professionist for more info or https://about.me/metaversenova
 
                                               ⬇ Instructions ⬇
 
