@@ -32,7 +32,7 @@
 -   Discord Injection
     - Sends token, password, email and billing on login or when the account's data get's modified
 
--   Client's Data
+-   Local Client's Data
     -   Steam
     -   Riot Games
     -   Telegram
@@ -45,7 +45,7 @@
     -   Network
 
  -   Authentication Stealer
-    -   Grabs Seed Phrases, Tokens, Private Keys, Recovery Codes, Backup Codes, 2FA codes
+    -   Grabs Tokens, Keys, Recovery Codes, Backup Codes and 2FA codes
 
 -   General Functions
     -   Check if being run in VirusTotal or a Sandbox
@@ -63,7 +63,7 @@
 
 
 
-- Grabs Crypto wallets such as Metamask, Atomic, Exodus, Binance, Coinbase, Trust and Phantom 
+- Grabs Local Crypto wallets such as Metamask, Atomic, Exodus, Binance, Coinbase, Trust and Phantom 
 
 
 
@@ -81,7 +81,7 @@
  
 - Paste and save your webhook address instead of `"WEBHOOK HERE"` in AstraLink.py
 
-- Using a obfuscator is reccomended to bypass the AV.
+- Using a obfuscator is reccomended to bypass protections.
 
 - If the requirements aren't met then run `pip install -r requirements.txt`
 
@@ -130,6 +130,7 @@
 
                                        ⬇ Educational Purposes Disclosure ⬇
 
-- <bold> This tool is a tool that should be used only for educational purposes. I do not hold any responsibility for any misuse! </bold>
+- </bold> This tool is a tool that should be used only for educational purposes. I do not hold any responsibility for any misuse! </bold>
+- </bold> View the License for more information about AstraLink ’’Swift’’ being licensed under the MIT License. </bold>
 
 <hr style="border-radius: 2%; margin-top: 60px; margin-bottom: 60px;" noshade="" size="20" width="100%">
